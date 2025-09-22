@@ -54,12 +54,4 @@ Welcome to my GitHub! I'm a passionate developer with diverse interests spanning
 
 ---
 
-## 📬 Let's Connect!
-
-- **GitHub**: You're already here! Check out my repos and feel free to contribute or share feedback.  
-- **LinkedIn**: (Add your LinkedIn link here if you have one.)  
-- **Portfolio**: (Add a link to your portfolio if available.)  
-
----
-
 💡 _"Building a world connected by code, one project at a time."_  
